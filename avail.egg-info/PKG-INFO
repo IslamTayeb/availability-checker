@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: avail
+Version: 0.1.0
+Requires-Dist: google-auth-oauthlib>=0.4.6
+Requires-Dist: google-api-python-client>=2.47.0
+Requires-Dist: pytz>=2022.1
+Requires-Dist: click>=8.1.3
+Requires-Dist: python-dateutil>=2.8.2
+Requires-Dist: tzlocal>=4.2
+Requires-Dist: O365>=2.0.19
+Dynamic: requires-dist
